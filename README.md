@@ -12,6 +12,7 @@ Data Science and Artificial Intelligence student with a strong interest in Machi
 - Customer Segmentation Project
 
 ## Links
-- GitHub: https://github.com/imane-chaouqi
-- LinkedIn: https://www.linkedin.com/in/imane-chaouqi-04b57128a
+- [GitHub](https://github.com/tonusername)
+- [LinkedIn](https://www.linkedin.com/in/tonusername)
+- Email: [chaouqiimane50@gmail.com](mailto:chaouqiimane50@gmail.com)
 
