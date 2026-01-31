@@ -6,7 +6,7 @@ Data Science and Artificial Intelligence student with a strong interest in Machi
 ## Skills
 - Python, SQL
 - Data Analysis & Visualization
-- Machine Learning (basics)
+- Machine Learning 
 
 ## Projects
 - Customer Segmentation Project
