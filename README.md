@@ -10,6 +10,7 @@ Data Science and Artificial Intelligence student with a strong interest in Machi
 
 ## Projects
 - Customer Segmentation Project
+- Superstore Sales Insights Web App
 
 ## Links
 - [GitHub](https://github.com/imane-chaouqi)
