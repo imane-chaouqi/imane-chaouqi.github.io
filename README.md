@@ -4,13 +4,15 @@
 Data Science and Artificial Intelligence student with a strong interest in Machine Learning and Deep Learning.
 
 ## Skills
-- Python, SQL
+- Python, SQL ,Excel
 - Data Analysis & Visualization
 - Machine Learning 
 
 ## Projects
-- Customer Segmentation Project
-- Superstore Sales Insights Web App
+- Customer Segmentation Web App using K-Means clustering with Silhouette analysis, including a user input feature to classify new customers (deployed with Streamlit).
+
+- Superstore Sales Insights project performing comprehensive Exploratory Data Analysis (EDA) to identify key sales trends and business insights.
+
 
 ## Links
 - [GitHub](https://github.com/imane-chaouqi)
