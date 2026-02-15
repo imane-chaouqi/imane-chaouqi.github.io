@@ -1,7 +1,7 @@
 # Imane Chaouqi
 
 ## About Me
-Data Science and Artificial Intelligence student with a strong interest in Machine Learning and Deep Learning.
+Data Science and Artificial Intelligence student 
 
 ## Skills
 - Python, SQL ,Excel
