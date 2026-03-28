@@ -56,7 +56,8 @@ Currently seeking a summer internship to contribute to real-world data science a
 - Analyzed customer groups to support marketing strategies  
 - Deployed the interactive Streamlit application 
 
-- Collaborated with team members responsible for data preprocessing, model validation by Silhouette score, and application development 
+- Collaborated with team members responsible for data preprocessing, model validation by Silhouette score, and application development
+
 🔗 Project Link: https://projet-segmentation-de-clients-mnvmnfbo6ytbyqygrwekmd.streamlit.app/
 
 ---
