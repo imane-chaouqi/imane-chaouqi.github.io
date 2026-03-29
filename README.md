@@ -46,7 +46,7 @@ Currently seeking a summer internship to contribute to real-world data science a
 - Selected Random Forest as the best-performing model  
 - Developed and deployed an interactive Streamlit application  
 
-🔗 Project Link: https://diabetes-prediction3.streamlit.app/
+🔗 Project Link:  [View Project](https://diabetes-prediction3.streamlit.app/)
 
 ---
 
@@ -58,7 +58,7 @@ Currently seeking a summer internship to contribute to real-world data science a
 
 - Collaborated with team members responsible for data preprocessing, model validation by Silhouette score, and application development
 
-🔗 Project Link: https://projet-segmentation-de-clients-mnvmnfbo6ytbyqygrwekmd.streamlit.app/
+🔗 Project Link:  [View Project](https://projet-segmentation-de-clients-mnvmnfbo6ytbyqygrwekmd.streamlit.app/)
 
 ---
 
@@ -68,7 +68,7 @@ Currently seeking a summer internship to contribute to real-world data science a
 - Identified key business insights and performance trends   
 - Developed a data visualizations dashboard using Streamlit
 
-🔗 Project Link: https://superstore-sales-analytics-cv2vglsrrwttzhi74evaa4.streamlit.app/
+🔗 Project Link:  [View Project](https://superstore-sales-analytics-cv2vglsrrwttzhi74evaa4.streamlit.app/)
 
 ---
 
